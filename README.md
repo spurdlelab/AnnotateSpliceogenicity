@@ -27,8 +27,8 @@ Jannah Shamsani, Stephen H Kazakoff, Irina M Armean, Will McLaren, Michael T Par
 
 ## Contact
 
-[Jannah Shamsani](Jan.Shamsani@qimrberghofer.edu.au)
-[Stephen Kazakoff](Stephen.Kazakoff@qimrberghofer.edu.au)
+- [Jannah Shamsani](mailto:Jan.Shamsani@qimrberghofer.edu.au)
+- [Stephen Kazakoff](mailto:Stephen.Kazakoff@qimrberghofer.edu.au)
 
 [1]: https://enigmaconsortium.org
 [2]: https://www.ensembl.org/vep
